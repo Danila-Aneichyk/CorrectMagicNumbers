@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MagicNumbers.unity
     guid: dccfc6aa89b89ee4da55f7f65385a9be
   - enabled: 1
-    path: Assets/Scenes/MagicNumbersLevelSecond.unity
-    guid: 375008d46e53c6f4d941af99f82f0d3f
+    path: Assets/Scenes/WinScene.unity
+    guid: 577a2856a9a33b140843e9f116e3434c
   m_configObjects: {}
